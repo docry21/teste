@@ -10,7 +10,7 @@ def verifica(n):
 # Solicita um número ao usuário
 num = int(input("Digite um número: "))
 
-# Verifica se o número pertence à sequência de Fibonacci
+# Verifica se o número pertence à sequência
 if verifica(num):
     print(f"{num} pertence à sequência de Fibonacci.")
 else:
